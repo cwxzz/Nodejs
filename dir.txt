@@ -1,0 +1,20 @@
+ 驱动器 C 中的卷没有标签。
+ 卷的序列号是 D6FD-FBEF
+
+ C:\ 的目录
+
+2020/12/15  09:24    <DIR>          AppData
+2017/10/27  09:18             3,280 bootsqm.dat
+2017/10/13  14:39    <DIR>          Intel
+2016/12/13  10:42             3,295 ipconfig.txt
+2018/06/01  15:28               322 offline_FtnInfo.txt
+2017/11/28  16:40                 0 out.txt
+2009/07/14  11:20    <DIR>          PerfLogs
+2018/06/04  16:55    <DIR>          Program Files
+2017/11/14  10:19    <DIR>          Program Files (x86)
+2021/02/16  16:30    <DIR>          temp
+2016/12/14  09:47    <JUNCTION>     Users [D:\Users]
+2017/09/08  14:28    <DIR>          usr
+2021/03/15  18:15    <DIR>          Windows
+               4 个文件          6,897 字节
+               9 个目录  2,774,372,352 可用字节
